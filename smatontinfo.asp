@@ -1,0 +1,1 @@
+No Content: http://192.168.100.1/html/ssmp/smartontinfo/smatontinfo.asp
